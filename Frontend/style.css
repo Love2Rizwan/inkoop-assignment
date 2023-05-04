@@ -1,0 +1,21 @@
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+input[type="number"] {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 18px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 18px;
+}
+
+p {
+  margin-top: 20px;
+  font-size: 18px;
+}
